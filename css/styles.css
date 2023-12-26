@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    color: #434455;
+    color: #2e2f42;
     background-color: #fff;
 }
 
@@ -37,7 +37,7 @@ ol {
 
 .nav-link:hover,
 .nav-link:focus {
-    background-color: #404BBF;
+    color: #404bbf;
 }
 
 .address {
@@ -107,12 +107,16 @@ ol {
 }
 
 .heading {
+    color: #2e2f42;
     font-size: 36px;
     font-weight: 700;
-    line-height: 11.1;
-    letter-spacing: 0.2em;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
+
+.heading-items{background-color: #FFFFFF;}
 
 .text-item {
     color: #2E2F42;
@@ -120,7 +124,7 @@ ol {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
 }
 
 .text-item-desc {
@@ -129,17 +133,17 @@ ol {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
 }
 
 /* portfolio */
 
 .caption {
-    color: #2E2F42;
+    color: #2e2f42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 11.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -157,7 +161,7 @@ ol {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
 }
 
 /* footer */
@@ -177,7 +181,7 @@ ol {
 }
 
 .footer-link-part {
-    color: #fff;
+    color: #f4f4fd;
 }
 
 .footer-text {
@@ -185,5 +189,5 @@ ol {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.02em;
 }
