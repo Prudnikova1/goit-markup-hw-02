@@ -33,16 +33,16 @@ p {
     color: #2E2F42;
 }
 
-.nav-link {
-    color: #2E2F42;
+.nav-link-link {
+    color: #2e2f42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.nav-link:hover,
-.nav-link:focus {
+.nav-link-link:hover,
+.nav-link-link:focus {
     color: #404bbf;
 }
 
@@ -117,7 +117,9 @@ background:#F4F4FD;
 .heading-items-imeges{
     background-color: #FFFFFF
 }
-
+.heading-items{
+    background-color: #FFFFFF;
+}
 .heading {
     color: #2e2f42;
     font-size: 36px;
@@ -127,11 +129,6 @@ background:#F4F4FD;
     text-transform: capitalize;
     text-align: center;
 }
-
-.heading-items{
-background-color: #FFFFFF;
-}
-
 
 .text-item {
     color: #2E2F42;
