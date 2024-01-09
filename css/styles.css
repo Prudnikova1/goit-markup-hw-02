@@ -139,6 +139,10 @@ background:#F4F4FD;
     letter-spacing: 0.02em;
 }
 
+.heading-items-item{
+    background-color: #FFFFFF;
+}
+
 .text-item-desc {
     color: #434455;
     text-align: center;
